@@ -9,3 +9,13 @@ Despite significant recent advances in the field of face recognition [10, 14, 15
 **Paper** - https://arxiv.org/abs/1503.03832
 
 **Dataset** - http://vis-www.cs.umass.edu/lfw/
+
+# Resources
+
+**Refer notebook for NN4_small2 model** - https://github.com/TessFerrandez/research-papers/blob/prod/facenet/FaceNet.ipynb
+
+**Indepth understanding** - http://krasserm.github.io/2018/02/07/deep-face-recognition/
+
+**Code for normal ZFNet** - https://programmersought.com/article/41772863484/
+
+**David Sandberg's FaceNet** - https://github.com/davidsandberg/facenet
