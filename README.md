@@ -10,7 +10,7 @@ Despite significant recent advances in the field of face recognition [10, 14, 15
 
 **Dataset** - http://vis-www.cs.umass.edu/lfw/
 
-# Resources
+## Resources
 
 **Refer notebook for NN4_small2 model** - https://github.com/TessFerrandez/research-papers/blob/prod/facenet/FaceNet.ipynb
 
