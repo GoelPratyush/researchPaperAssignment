@@ -1,4 +1,8 @@
 data/lfw2
 data/lfwa.zip
+data/train
+data/test
 .ipynb_checkpoints
 models/zeiler/.ipynb_checkpoints
+reference
+__pycache__

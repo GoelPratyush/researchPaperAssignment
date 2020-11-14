@@ -1,6 +1,6 @@
 # Research Paper Assignment
 
-# FaceNet: A Unified Embedding for Face Recognition and Clustering
+## FaceNet: A Unified Embedding for Face Recognition and Clustering
 
 **Abstract**
 
