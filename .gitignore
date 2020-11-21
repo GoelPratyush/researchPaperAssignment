@@ -1,7 +1,9 @@
 data/lfw2
 data/lfwa.zip
 data/train
+data/train.zip
 data/test
+data/test.zip
 .ipynb_checkpoints
 models/zeiler/.ipynb_checkpoints
 reference
